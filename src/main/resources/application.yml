@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://192.168.146.137:27017/N2MU
+
+server:
+  port: 8080
